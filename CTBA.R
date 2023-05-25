@@ -483,7 +483,7 @@ plot_cap(modelo_Particip6index, condition=c("Genero"), conf_level = .9)
 
 # modelo adicional democracia
 
-modelo_Particip6indexB <- lm(IndexParticipacao ~ Autoritarismo+Genero+Tipo_Escola+Classe+
+modelo_Particip6indexB <- lm(IndexParticipacao ~ Genero+Tipo_Escola+Classe+
                               religiosidade+escolaridadePais+Intolerancia+Privatista,
                             data=df)
 tab_model(modelo_Particip6indexB)
