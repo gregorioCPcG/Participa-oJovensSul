@@ -1,5 +1,7 @@
 # replicar POA EM CTBA
 #  rodar POA (deixaar salvo) ANTES 
+
+df -> Poa
 Ctba -> curitiba_completo
 library(labelled)
 Ctba <- remove_labels(Ctba)
