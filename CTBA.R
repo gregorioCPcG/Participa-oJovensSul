@@ -1,5 +1,5 @@
-# replicar 3st Attempt em CTBA
-#  rodar 3st attemp antes
+# replicar POA EM CTBA
+#  rodar POA (deixaar salvo) ANTES 
 Ctba -> curitiba_completo
 library(labelled)
 Ctba <- remove_labels(Ctba)
