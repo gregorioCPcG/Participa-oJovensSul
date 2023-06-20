@@ -1,3 +1,5 @@
 # Participa-oJovensSul
 
-Apêndices: https://github.com/gregorioCPcG/Participa-oJovensSul/blob/main/Apendices.pdf
+Apendice.pdf é o apêndice
+
+script final.R é o script da análise
